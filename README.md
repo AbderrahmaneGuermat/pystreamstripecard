@@ -12,7 +12,7 @@ pip install streamlit_stripe_card
 ## Additional Notes
 Ensure your Streamlit application is running over HTTPS to enable secure transactions and prevent any security warnings from browsers regarding the handling of payment information.
 
-The 0.0.1 version have the warning and success mesagge in spanish, in the next update i will add the english version. if you need the english version, please contact with me at linkedin: 
+The 0.0.1 version have the warning and success mesagge in spanish, in the next update i will add the english version. if you need the english version, please contact with me at linkedin: https://www.linkedin.com/in/abdeguermat/
 
 ## Usage instructions
 
