@@ -126,3 +126,7 @@ def crear_payment_intent(amount, currency, payment_method_id, customer_id=None, 
         return None
 
 ```
+
+
+![image](https://github.com/AbderrahmaneGuermat/streamlit_stripe_card/assets/61157096/1a2e2fed-a7f2-46c3-9bdf-47b6029abda9)
+
