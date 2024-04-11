@@ -6,7 +6,7 @@ This Streamlit custom component allows users to process payments using Stripe, h
 ## Installation instructions
 
 ```sh
-pip install stripecard
+pip install streamlit_stripe_card
 ```
 
 ## Additional Notes

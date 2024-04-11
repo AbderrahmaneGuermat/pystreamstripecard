@@ -6,8 +6,8 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
-    name="pystreamstripecard",
-    version="0.0.2",
+    name="streamlit_stripe_card",
+    version="0.0.1",
     author="Abderrahmane Guermat",
     author_email="abdeguermat@gmail.com",
     description="Streamlit component that allows you to process payments with stripe card option (Spanish version). This component get the card info from the frontend in a secure way (an id), you can use that id to process payments in the python server",
